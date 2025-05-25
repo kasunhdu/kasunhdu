@@ -2,7 +2,7 @@
 
 #  Hi, I'm Kasun Ukwattage
 
-Welcome to my GitHub profile! I'm an undergraduate pursuing a degree in Electronics and Embedded Systems at the University of Sri Jayewardenepura. I'm a passionate and dedicated electronics and embedded systems enthusiast with experience in microcontroller programming, IoT development, and robotics. I enjoy building things that connect the physical and digital worlds — whether it's using ESP32, Arduino, Raspberry Pi or Jetson.
+Welcome to my GitHub profile! I'm an undergraduate pursuing a (B.Sc.Honours) degree in Electronics and Embedded Systems at the University of Sri Jayewardenepura. I'm a passionate and dedicated electronics and embedded systems enthusiast with experience in microcontroller programming, IoT development, and robotics. I enjoy building things that connect the physical and digital worlds — whether it's using ESP32, Arduino, Raspberry Pi or Jetson.
 
 ## 🛠️ Skills & Interests
 
